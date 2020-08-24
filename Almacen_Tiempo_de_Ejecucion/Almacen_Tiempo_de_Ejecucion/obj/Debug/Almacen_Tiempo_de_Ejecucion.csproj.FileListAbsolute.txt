@@ -1,0 +1,206 @@
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.cache
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\edwin\Documents\Visual Studio 2019\Backup Files\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojAssemblyReference.cache
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.cache
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CoreCompileInputs.cache
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Libreria1_Almacen.dll
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Libreria1_Almacen.pdb
+D:\Universidad\Programación Orientada A Objetos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CopyComplete
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Libreria1_Almacen.dll
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Libreria1_Almacen.pdb
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojResolveAssemblyReference.cache
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.Cache
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ayuda.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\LIBRERIA2.dll
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\LIBRERIA2.pdb
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Acerca_de.resources
+C:\Users\fende\Downloads\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Inventario.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Libreria1_Almacen.dll
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Libreria1_Almacen.pdb
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\LIBRERIA2.pdb
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojAssemblyReference.cache
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Acerca_de.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ayuda.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Inventario.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.cache
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CopyComplete
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\MiRi\Desktop\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojAssemblyReference.cache
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Acerca_de.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ayuda.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Inventario.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.cache
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CopyComplete
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.dll
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.dll
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.dll
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.pdb
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.pdb
+C:\Users\edwin\Documents\edwin\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.pdb
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.pdb
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.pdb
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.pdb
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojAssemblyReference.cache
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Acerca_de.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ayuda.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Inventario.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.cache
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CopyComplete
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\MiRi\Desktop\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.pdb
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.pdb
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.pdb
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojAssemblyReference.cache
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Acerca_de.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ayuda.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Inventario.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Pantalla_Inicio.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.cache
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CopyComplete
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\Unidad 3 Programacion Orientada A Objetos\Protecto Almacen  Librerias\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.dll
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.pdb
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.pdb
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.pdb
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojAssemblyReference.cache
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Inventario.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Pantalla_Inicio.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.cache
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.CopyComplete
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Turnos.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Datos.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.dll
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Productos.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Movbiliario.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Tickets.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Puesto.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Almacen.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Cotizaciones.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Pro_Ext.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Pro_Local.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Compras.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Consultas.resources
+C:\Users\edwin\Documents\Almacen Evidencia Final\Proyecto _Almacen_Librerias_Hilos\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.dll
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe.config
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.exe
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Tiempo_de_Ejecucion.pdb
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.dll
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.dll
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.dll
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria1.pdb
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria2.pdb
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\bin\Debug\Almacen_Libreria3.pdb
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csprojResolveAssemblyReference.cache
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Almacen.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Clientes.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Compras.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Consultas.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Cotizaciones.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Datos.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Empleados.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Form1.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Inventario.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Movbiliario.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Pantalla_Inicio.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Productos.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Properties.Resources.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Proveedores.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Pro_Ext.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Pro_Local.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Puesto.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Tickets.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Turnos.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.Ventas.resources
+C:\Users\fende\Downloads\ALMACEN CORREGIDO\Almacen_Tiempo_de_Ejecucion\Almacen_Tiempo_de_Ejecucion\obj\Debug\Almacen_Tiempo_de_Ejecucion.csproj.GenerateResource.Cache
